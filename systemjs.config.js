@@ -1,3 +1,5 @@
+//为模块加载器提供了该到哪里查找应用模块的信息，并注册了所有必备的依赖包。
+//它还包括文档中后面的例子需要用到的包。
 /**
  * System configuration for Angular 2 samples
  * Adjust as necessary for your application needs.
