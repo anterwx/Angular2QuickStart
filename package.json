@@ -1,3 +1,6 @@
+/*
+ *  用来标记出本项目所需的 npm 依赖包
+ */
 {
   "name": "angular2-quickstart",
   "version": "1.0.0",

@@ -178,5 +178,5 @@ node_modules
 spring.log.1
 keystore.p12
 
-.js
-.map
+*.js
+*.map
