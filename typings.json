@@ -1,4 +1,3 @@
-//为那些 TypeScript 编译器无法识别的库提供了额外的定义文件。
 {
   "globalDependencies": {
     "core-js": "registry:dt/core-js#0.0.0+20160725163759",

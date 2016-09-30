@@ -1,4 +1,3 @@
-//定义了 TypeScript 编译器如何从项目源文件生成 JavaScript 代码
 {
   "compilerOptions": {
     "target": "es5",
